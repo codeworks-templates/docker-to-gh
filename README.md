@@ -1,2 +1,3 @@
-# docker-to-gh
-Github action used to build a docker image and push it to the github registry
+# Build and Publish Your Docker Image to Github  🐳
+
+This workflow is triggered when commit messages include the word `deploy`
